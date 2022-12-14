@@ -3,7 +3,7 @@ layout: post
 title: "포스트 작성방법"
 date: 2022-12-13 14:00:20 +0300
 description: git repository의 `_posts` 로 이동 합니다. 이 디렉토리에서 .markdown파일 중 하나를 수정하고 배포 후 확인 해보세요. # Add post description (optional)
-img:  # Add image post (optional)
+img: software.jpg # Add image post (optional)
 ---
 
 새로운 포스트를 작성하려면, `_posts` 디렉토리에 다음과 같은 형식을 파일명으로 하는 `YYYY-MM-DD-name-of-post.ext` 파일을 생성합니다.
