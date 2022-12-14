@@ -1,0 +1,12 @@
+---
+layout: post
+title: This is test.
+date: 2022-12-14 11:59:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: software.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [test]
+permalink:
+---
+
+### 글쓰기 완료 !!
